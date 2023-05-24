@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, Me chamo Gustavo é prazer te conhecer  ☺✌
+## Bem-vindo(a) ao meu perfil, Me chamo Gustavo é um prazer te conhecer  ☺✌
 
  <div>
    <a href="https://github.com/GHSSousa">
